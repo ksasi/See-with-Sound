@@ -62,7 +62,7 @@ The trained model can be evaluated as below :
 
 The CMC Curve of Probe and Gallery is shown below :
 
-![image](cmc_curve.pdf)
+![image](https://github.com/ksasi/See-with-Sound/blob/main/cmc_curve.pdf)
 
 Rank1 Identification Accuracy: 87.097%
 
