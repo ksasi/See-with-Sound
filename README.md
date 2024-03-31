@@ -12,6 +12,10 @@ After setting up the code as below, update the paths appropriately
 
 `git clone https://github.com/ksasi/See-with-Sound.git`
 
+### Install Dependencies:
+
+`cd See-with-Sound`
+`pip install -r requirements.txt`
 
 ### Dataset:
 
