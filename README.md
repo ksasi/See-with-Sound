@@ -14,8 +14,9 @@ After setting up the code as below, update the paths appropriately
 
 ### Install Dependencies:
 
-`cd See-with-Sound`
-`pip install -r requirements.txt`
+> cd See-with-Sound
+> 
+> pip install -r requirements.txt
 
 ### Dataset:
 
