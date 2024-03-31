@@ -10,7 +10,7 @@ Below are the step to setup the code and perform training
 
 After setting up the code as below, update the paths appropriately
 
-`git clone https://github.com/ksasi/See-with-Sound.git`
+> git clone https://github.com/ksasi/See-with-Sound.git
 
 ### Install Dependencies:
 
@@ -55,13 +55,13 @@ food-101-small/
 
 After updating the paths, train `SGDClassifier` incrementally as below :
 
-`nohup python model_train.py &`
+> nohup python model_train.py &
 
 ### Evaluation:
 
 The trained model can be evaluated as below :
 
-`nohup python evaluate.py &`
+> nohup python evaluate.py &
 
 ### Results:
 
